@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Sergio!
-- 👀 I'm interested in C# ASP .Net Core 7, ASP Backend Technologies
-- 🌱 I'm currently learning Entity Framework and Azure using docker and kubernetes
+- 👀 I'm interested in C#, ASP .Net Core 7, Backend Technologies
+- 👀 I'm currently working on React.js, Full Stack Applications
+- 🌱 I'm currently implementing solutions using Entity Framework and MS Azure using docker and kubernetes
 - 💞️ I'm looking to collaborate on Backend Projects
-- 📫 How to reach me: email me! (c2RzYW5jaGV6bUBsaXZlLmRl)
+- 📫 How to reach me: email me :) (c2RzYW5jaGV6bUBsaXZlLmRl)
