@@ -5,6 +5,9 @@
 - 🌱 I'm currently implementing solutions using Entity Framework
 - 📫 How to reach me: email me (c2RzYW5jaGV6bUBsaXZlLmRl)
 
+## Projects
+
+<a href="https://github.com/sdsanchezm/javascript-all"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=javascript-all&bg_color=1F222E&title_color=FFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
 
 ## Frameworks and Libs
 
