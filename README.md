@@ -7,16 +7,25 @@
 
 ## Projects
 
-<a href="https://github.com/sdsanchezm/javascript-all"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=javascript-all&bg_color=1F222E&title_color=FFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/sdsanchezm/SchoolAdminWebApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=SchoolAdminWebApp&bg_color=1F222E&title_color=FFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
 
 ## Frameworks and Libs
 
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![image](https://img.shields.io/badge/Python-Django-green)
+- Specialized in
+
+    ![image](https://img.shields.io/badge/CSharp-Dotnet-blue?&logo=csharp)
+    ![image](https://img.shields.io/badge/CSharp-Dotnet-blue?&logo=dotnet)
+    ![image](https://img.shields.io/badge/CSharp-Blazor-blue?&logo=blazor)
+
+- Knowledge of
+
+    ![image](https://img.shields.io/badge/Node.js-green?&logo=nodedotjs&logoColor=white)
+    ![image](https://img.shields.io/badge/Javascript-yellow?&logo=javascript&logoColor=black)
+    ![image](https://img.shields.io/badge/Typescript-blue?&logo=typescript&logoColor=white)
+    ![image](https://img.shields.io/badge/Express.js-purple?&logo=express&logoColor=white)
+    ![image](https://img.shields.io/badge/React.js-blue?&logo=react&logoColor=white)
+    ![image](https://img.shields.io/badge/Python-Django-green?&logo=python&logoColor=white)
+    ![image](https://img.shields.io/badge/Python-Flask-green?&logo=python&logoColor=white)
 
 
 ## Stats
