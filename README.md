@@ -1,9 +1,12 @@
-## - 
+## Sergio Sanchez
 - 👋 Hi, I'm Sergio!
-- 👀 I'm interested in C#, ASP .Net, Backend Technologies
-- 👀 I'm currently working on React.js, Full Stack Applications using .Net webapi libraries and MS SQL Server
-- 🌱 I'm currently implementing solutions using Entity Framework
-- 📫 How to reach me: email me (c2RzYW5jaGV6bUBsaXZlLmRl)
+- 👀 I'm currently working on C# Dotnet Backend APIs (webapi, and MS SQL Server), and Full Stack Applications using Angular.
+- 📫 How to reach me? Portfolio ([https://sdsanchezm.github.io/](https://sdsanchezm.github.io/))
+
+## What motivates me
+- Being able to create an implement Tech solutions to contribute companies
+- Automate what can be automated, and adapt/transform what can be scaled
+- Terminal Lover!
 
 ## Projects
 
