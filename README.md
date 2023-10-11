@@ -10,13 +10,13 @@
 
 ## Projects
 
-<a href="https://github.com/sdsanchezm/exam-laboratory-codes-front"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=csharp-dotnet-api&bg_color=3E004E&title_color=FFFFF&icon_color=9999FF&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/sdsanchezm/exam-laboratory-codes-front"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=exam-laboratory-codes-front&bg_color=3E004E&title_color=FFFFF&icon_color=9999FF&hide_border=true&show_icons=true&text_color=FFFFFF" alt="github-readme-streak-stats"></a>
 
-<a href="https://github.com/sdsanchezm/exam-laboratory-codes-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=csharp-dotnet-api&bg_color=3E004E&title_color=FFFFF&icon_color=6666FF&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/sdsanchezm/exam-laboratory-codes-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=exam-laboratory-codes-app&bg_color=3E004E&title_color=FFFFF&icon_color=6666FF&hide_border=true&show_icons=true&text_color=FFFFFF" alt="github-readme-streak-stats"></a>
 
-<a href="https://github.com/sdsanchezm/csharp-dotnet-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=csharp-dotnet-api&bg_color=3E004E&title_color=FFFFF&icon_color=3333FF&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/sdsanchezm/csharp-dotnet-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=csharp-dotnet-api&bg_color=3E004E&title_color=FFFFF&icon_color=3333FF&hide_border=true&show_icons=true&text_color=FFFFFF" alt="github-readme-streak-stats"></a>
 
-<a href="https://github.com/sdsanchezm/SchoolAdminWebApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=SchoolAdminWebApp&bg_color=3E004E&title_color=FFFFF&icon_color=4444FF&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/sdsanchezm/SchoolAdminWebApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=SchoolAdminWebApp&bg_color=3E004E&title_color=FFFFF&icon_color=4444FF&hide_border=true&show_icons=true&text_color=FFFFFF" alt="github-readme-streak-stats"></a>
 
 ## Frameworks and Libs
 
