@@ -1,12 +1,11 @@
-## Sergio Sanchez
+## About Sergio
 - 👋 Hi, I'm Sergio!
 - 👀 I'm currently working on C# Dotnet Backend APIs (webapi, and MS SQL Server), and Full Stack Applications using Angular.
 - 📫 Hey, let's check my Portfolio! ([https://sdsanchezm.github.io/](https://sdsanchezm.github.io/))
 
-## What motivates me
-- Being able to create an implement Tech solutions to contribute companies
-- Automate what can be automated, and adapt/transform what can be scaled
-- Terminal Lover!
+## C# dotnet Skilled (ASP.NET MVC, WPF, MAUI, Webapi, Blazor)
+- Create an implement Software solutions to contribute companies to generate value.
+- Automate what can be automated, and adapt/transform what can be scaled.
 
 ## Projects
 
