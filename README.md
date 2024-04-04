@@ -1,9 +1,21 @@
 ## About Sergio
-- 👋 Hi, I'm Sergio!
-- 👀 I'm currently working on C# Dotnet Backend APIs (webapi, and MS SQL Server), and Full Stack Applications using Angular.
-- 📫 Hey, let's check my Portfolio! ([https://sdsanchezm.github.io/](https://sdsanchezm.github.io/))
+- 👋 Hello, I'm Sergio!
+- 👀 I'm currently working on Full Stack projects using C# and Java (Spring) technologies.
+- 📫 Let's check my Portfolio! ([https://sdsanchezm.github.io/](https://sdsanchezm.github.io/))
 
-## C# dotnet Skilled (ASP.NET MVC, WPF, MAUI, Webapi, Blazor)
+## Front-End
+- Angular
+- React
+- Blazor
+- Jinja2
+- Thymeleaf
+- Xaml
+
+## Back-End
+- C# dotnet
+- Java Spring Boot
+
+## Agile Principles
 - Create an implement Software solutions to contribute companies to generate value.
 - Automate what can be automated, and adapt/transform what can be scaled.
 
