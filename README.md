@@ -1,23 +1,36 @@
-## About Sergio
+## About
 - 👋 Hello, I'm Sergio!
-- 👀 I'm currently working on Full Stack projects using C# and Java (Spring) technologies.
-- 📫 Let's check my Portfolio! ([https://sdsanchezm.github.io/](https://sdsanchezm.github.io/))
+- 👀 I'm currently working on Systems Integration onPremise and in the cloud.
+- 📫 Check my Portfolio! ([https://sdsanchezm.github.io/](https://sdsanchezm.github.io/))
+
+## Back-End
+- C# .Net 8, 7 and 6
+- Java 8, 11 and 17 (Spring Boot)
+
+## Patterns
+- N-Layer architecture
+- Model View Controller
+- Model View ViewModel
+- Dependency Injection
 
 ## Front-End
 - Angular
 - React
 - Blazor
-- Jinja2
 - Thymeleaf
-- Xaml
+- Template Managers
 
-## Back-End
-- C# dotnet
-- Java Spring Boot
+## Scripting
+- Powershell
+- Bash
 
 ## Agile Principles
-- Create an implement Software solutions to contribute companies to generate value.
 - Automate what can be automated, and adapt/transform what can be scaled.
+- Create an implement Software solutions to contribute companies to generate value.
+
+## Cloud
+- Azure AZ-900 Certified
+- Azure AI-900 Certified
 
 ## Projects
 
