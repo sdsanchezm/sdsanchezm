@@ -34,7 +34,7 @@
 
 ## Projects
 
-<a href="https://github.com/sdsanchezm/exam-laboratory-codes-front"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=exam-laboratory-codes-front&bg_color=3E004E&title_color=FFFFF&icon_color=9999FF&hide_border=true&show_icons=true&text_color=FFFFFF" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/sdsanchezm/exam-laboratory-codes-front"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=exam-laboratory-codes-front&bg_color=3338A0&title_color=FCC61D&icon_color=9999FF&hide_border=true&show_icons=true&text_color=FFFFFF" alt="github-readme-streak-stats"></a>
 
 <a href="https://github.com/sdsanchezm/exam-laboratory-codes-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sdsanchezm&repo=exam-laboratory-codes-app&bg_color=3E004E&title_color=FFFFF&icon_color=6666FF&hide_border=true&show_icons=true&text_color=FFFFFF" alt="github-readme-streak-stats"></a>
 
